@@ -53,8 +53,8 @@ end
 endmodule
 ```
 ```
-Developed by: Madhumitha R
-RegisterNumber: 212224240082
+Developed by: Avanthika M
+RegisterNumber: 212224110009
 ```
 
 
